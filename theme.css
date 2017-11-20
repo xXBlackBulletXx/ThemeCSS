@@ -2193,7 +2193,8 @@ ul{
 	MATERIAL ICONS NORMALIZE
 */
 .material-icons{
-    font-size: 1em !important;
+	font-size: 1em !important;
+	cursor: pointer;
 }
 
 /*
