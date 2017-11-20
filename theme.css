@@ -288,6 +288,10 @@ body, html{
     display: block; 
 }
 
+.flow-root{
+	display: flow-root;
+}
+
 .none{
     display: none;
 }
