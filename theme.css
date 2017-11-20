@@ -2188,3 +2188,10 @@ ul{
 .text-transparent{
 	color: transparent;
 }
+
+/*
+	MATERIAL ICONS NORMALIZE
+*/
+.material-icons{
+    font-size: 1em !important;
+}
