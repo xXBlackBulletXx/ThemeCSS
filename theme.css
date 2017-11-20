@@ -1432,7 +1432,7 @@ ul{
 .text-red-lighten-1{
 	color: #ef5350;
 }
-.text-red-undefined{
+.text-red{
 	color: #f44336;
 }
 .text-red-darken-1{
@@ -1474,7 +1474,7 @@ ul{
 .text-pink-lighten-1{
 	color: #ec407a;
 }
-.text-pink-undefined{
+.text-pink{
 	color: #e91e63;
 }
 .text-pink-darken-1{
@@ -1516,7 +1516,7 @@ ul{
 .text-purple-lighten-1{
 	color: #ab47bc;
 }
-.text-purple-undefined{
+.text-purple{
 	color: #9c27b0;
 }
 .text-purple-darken-1{
@@ -1558,7 +1558,7 @@ ul{
 .text-deep-purple-lighten-1{
 	color: #7e57c2;
 }
-.text-deep-purple-undefined{
+.text-deep-purple{
 	color: #673ab7;
 }
 .text-deep-purple-darken-1{
@@ -1600,7 +1600,7 @@ ul{
 .text-indigo-lighten-1{
 	color: #5c6bc0;
 }
-.text-indigo-undefined{
+.text-indigo{
 	color: #3f51b5;
 }
 .text-indigo-darken-1{
@@ -1642,7 +1642,7 @@ ul{
 .text-blue-lighten-1{
 	color: #42a5f5;
 }
-.text-blue-undefined{
+.text-blue{
 	color: #2196f3;
 }
 .text-blue-darken-1{
@@ -1684,7 +1684,7 @@ ul{
 .text-light-blue-lighten-1{
 	color: #29b6f6;
 }
-.text-light-blue-undefined{
+.text-light-blue{
 	color: #03a9f4;
 }
 .text-light-blue-darken-1{
@@ -1726,7 +1726,7 @@ ul{
 .text-cyan-lighten-1{
 	color: #26c6da;
 }
-.text-cyan-undefined{
+.text-cyan{
 	color: #00bcd4;
 }
 .text-cyan-darken-1{
@@ -1768,7 +1768,7 @@ ul{
 .text-teal-lighten-1{
 	color: #26a69a;
 }
-.text-teal-undefined{
+.text-teal{
 	color: #009688;
 }
 .text-teal-darken-1{
@@ -1810,7 +1810,7 @@ ul{
 .text-green-lighten-1{
 	color: #66bb6a;
 }
-.text-green-undefined{
+.text-green{
 	color: #4caf50;
 }
 .text-green-darken-1{
@@ -1852,7 +1852,7 @@ ul{
 .text-light-green-lighten-1{
 	color: #9ccc65;
 }
-.text-light-green-undefined{
+.text-light-green{
 	color: #8bc34a;
 }
 .text-light-green-darken-1{
@@ -1894,7 +1894,7 @@ ul{
 .text-lime-lighten-1{
 	color: #d4e157;
 }
-.text-lime-undefined{
+.text-lime{
 	color: #cddc39;
 }
 .text-lime-darken-1{
@@ -1936,7 +1936,7 @@ ul{
 .text-yellow-lighten-1{
 	color: #ffee58;
 }
-.text-yellow-undefined{
+.text-yellow{
 	color: #ffeb3b;
 }
 .text-yellow-darken-1{
@@ -1978,7 +1978,7 @@ ul{
 .text-amber-lighten-1{
 	color: #ffca28;
 }
-.text-amber-undefined{
+.text-amber{
 	color: #ffc107;
 }
 .text-amber-darken-1{
@@ -2020,7 +2020,7 @@ ul{
 .text-orange-lighten-1{
 	color: #ffa726;
 }
-.text-orange-undefined{
+.text-orange{
 	color: #ff9800;
 }
 .text-orange-darken-1{
@@ -2062,7 +2062,7 @@ ul{
 .text-deep-orange-lighten-1{
 	color: #ff7043;
 }
-.text-deep-orange-undefined{
+.text-deep-orange{
 	color: #ff5722;
 }
 .text-deep-orange-darken-1{
@@ -2104,7 +2104,7 @@ ul{
 .text-brown-lighten-1{
 	color: #8d6e63;
 }
-.text-brown-undefined{
+.text-brown{
 	color: #795548;
 }
 .text-brown-darken-1{
@@ -2134,7 +2134,7 @@ ul{
 .text-grey-lighten-1{
 	color: #bdbdbd;
 }
-.text-grey-undefined{
+.text-grey{
 	color: #9e9e9e;
 }
 .text-grey-darken-1{
@@ -2164,7 +2164,7 @@ ul{
 .text-blue-grey-lighten-1{
 	color: #78909c;
 }
-.text-blue-grey-undefined{
+.text-blue-grey{
 	color: #607d8b;
 }
 .text-blue-grey-darken-1{
@@ -2179,12 +2179,12 @@ ul{
 .text-blue-grey-darken-4{
 	color: #263238;
 }
-.text-black-undefined{
+.text-black{
 	color: #000000;
 }
-.text-white-undefined{
+.text-white{
 	color: #ffffff;
 }
-.text-transparent-undefined{
-	color: N/A;
+.text-transparent{
+	color: transparent;
 }
