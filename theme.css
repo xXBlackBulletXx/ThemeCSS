@@ -2242,11 +2242,11 @@ ul{
 }
 
 .effet:hover{
-	background: rgba(0, 0, 0, 0.22);
+	background: rgba(0, 0, 0, 0.12);
 }
 
 .effet:active{
-	background: rgba(0, 0, 0, 0.42);
+	background: rgba(0, 0, 0, 0.22);
 }
 
 /*
