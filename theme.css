@@ -2233,6 +2233,18 @@ ul{
 	cursor: pointer;
 }
 
+.material-icons, .fa{
+	border-radius: 50%;
+}
+
+.material-icons:hover, .fa:hover{
+	background: rgba(0, 0, 0, 0.22);
+}
+
+.material-icons:active, .fa:active{
+	background: rgba(0, 0, 0, 0.42);
+}
+
 /*
 	VERTICAL ALIGNS
 */
