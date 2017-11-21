@@ -22,7 +22,7 @@
     GRID SYSTEM
     PER USARE LE COLONNE DEVI METTERE IL TUTTO DENTRO UN TAG CON CLASSE CONTAINER
 */
-@import "https://cdn.rawgit.com/xXBlackBulletXx/ThemeCSS/d0e74012/bootstrap-grid.min.css";
+@import "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap-grid.min.css";
 
 body, html{
     margin: 0px;
