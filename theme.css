@@ -288,7 +288,7 @@ button:active, input[type="button"]:active, input[type="submit"]:active, input[t
     display: flex;
 }
 
-.flex-colum{
+.flex-column{
 	flex-flow: column;
 }
 
