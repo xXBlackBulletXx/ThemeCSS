@@ -1,4 +1,24 @@
 /*
+	NORMALIZE CSS
+*/
+@import "https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css";
+
+/*
+	MATERIAL ICONS
+*/
+@import "https://fonts.googleapis.com/icon?family=Material+Icons";
+
+/*
+	FONT AWESOME ICONS
+*/
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css";
+
+/*
+	ANIMATE CSS
+*/
+@import "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css";
+
+/*
     GRID SYSTEM
     PER USARE LE COLONNE DEVI METTERE IL TUTTO DENTRO UN TAG CON CLASSE CONTAINER
 */
@@ -288,7 +308,7 @@ button:active, input[type="button"]:active, input[type="submit"]:active, input[t
     display: flex;
 }
 
-.flex-column{
+.flex-colum{
 	flex-flow: column;
 }
 
