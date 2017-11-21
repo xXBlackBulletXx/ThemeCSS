@@ -2235,13 +2235,17 @@ ul{
 
 .material-icons, .fa{
 	border-radius: 50%;
+	user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	-webkit-user-select: none;
 }
 
-.material-icons:hover, .fa:hover{
+.effet:hover{
 	background: rgba(0, 0, 0, 0.22);
 }
 
-.material-icons:active, .fa:active{
+.effet:active{
 	background: rgba(0, 0, 0, 0.42);
 }
 
