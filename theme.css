@@ -2241,11 +2241,11 @@ ul{
 	-webkit-user-select: none;
 }
 
-.effet:hover{
+.effect:hover{
 	background: rgba(0, 0, 0, 0.12);
 }
 
-.effet:active{
+.effect:active{
 	background: rgba(0, 0, 0, 0.22);
 }
 
