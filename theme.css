@@ -33,6 +33,14 @@ body, html{
     margin: auto;
 }
 
+
+.fab{
+	border-radius: 50%;
+	position: fixed;
+	bottom: 16px;
+	right: 16px;
+}
+
 button:hover, input[type="button"]:hover, input[type="submit"]:hover, input[type="reset"]:hover{
     filter: contrast(80%);
 }
@@ -396,10 +404,6 @@ ul{
 /*
 	BORDER RADIUS
 */
-
-.fab{
-	border-radius: 50%;
-}
 
 .border-radius-normal{
 	border-radius: 4px;
