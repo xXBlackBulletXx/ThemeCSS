@@ -39,6 +39,9 @@ body, html{
 	position: fixed;
 	bottom: 16px;
 	right: 16px;
+	width: 52px;
+	height: 52px;
+	border: 0px;
 }
 
 button:hover, input[type="button"]:hover, input[type="submit"]:hover, input[type="reset"]:hover{
